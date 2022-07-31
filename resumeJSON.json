@@ -1,0 +1,49 @@
+{
+    "Profile_Summary" : {
+      "name": "SRIKANTH DAMODARAN",
+      "email": "srikanth20695@hotmail.com",
+      "phone": 9789113008,
+      "summary": "Experienced Administration and Operations Management Professional with 4+ years of experience optimizing productivity efficiency and service quality across various environments. Highly dependable ethical and reliable support with crossfunctional teams in
+      ensuring operational and service excellence"
+    },
+      "location": {
+        "address": "251 Poonamallee",
+        "postalCode": 600056,
+        "city": "Chennai",
+        "countryCode": "IN"
+      },
+
+    "work": [
+      {
+        "company": "Ford motor company",
+        "position": "AMC Analyst",
+        "startDate": "01-Jan-2018"
+      }
+    ],
+    
+    "education": [
+      {
+        "institution": "SKR College",
+        "area": "Mechanical Engineering",
+        "studyType": "Regular",
+       "gpa": "7.0"
+      }
+    ],
+    
+   
+    "skills": [
+      {
+        "name": "Business Excel",
+        "level": "Intermediate"
+       
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "fluency": "Native"
+      }
+    ]
+   
+  
+  }
